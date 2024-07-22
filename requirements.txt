@@ -1,0 +1,10 @@
+crewai
+langchain
+langchain_groq 
+python-dotenv
+PyGithub
+google-generativeai
+requests
+crewai_tools
+embedchain
+sentence-transformers
